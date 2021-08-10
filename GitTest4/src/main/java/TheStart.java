@@ -5,6 +5,7 @@ public class TheStart {
 
 		int x;
 		int y;  //another change
+		int z; //stuff
 
 	}
 
